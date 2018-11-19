@@ -1,0 +1,56 @@
+
+
+@media (min-width: 350px){
+ 	.nav-item {
+	text-decoration: none;
+	color: #C0C0C0;
+	display: inline-block;
+	padding: 5px 10px;
+	background-color:LightCyan;
+	border-bottom: 5px solid #0000FF;}
+	
+img{
+	margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	display: block;  }
+}
+
+h1 {
+	text-align: center;
+	font-size: 60px;
+	margin-bottom: 50px; 
+	color: #000080;
+}
+#img1 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	display: block;
+}
+
+.copyright-info {
+	text-align: center;
+}
+h5{
+	font-size: 16px;
+	color: #0000FF;
+}
+ 
+.list {
+	overflow: hidden;
+}
+.list-item {
+	float: left;
+	width: 50%;
+	padding: 20px;
+	box-sizing: border-box;
+	margin-bottom: 20px;}
+
+	} 
+
+
+
+
+ 
+
